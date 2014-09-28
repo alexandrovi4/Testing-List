@@ -5,10 +5,8 @@
 	<title>Home</title>
 </head>
 <body>
-<h1>
-	Hello world!  
-</h1>
-
-<P>  The time on the server is ${serverTime}. </P>
+[<a href="questionList.html">Manage List</a>] [<a href="">Perform List</a>]
+<br/>
+<hr></hr>
 </body>
 </html>

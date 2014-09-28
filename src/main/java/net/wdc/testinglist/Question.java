@@ -5,6 +5,8 @@ public class Question {
 	private Integer id;
 	private String name;
 	
+	public Question(){}
+	
 	public Question(String name){
 		this.name = name;
 	}
